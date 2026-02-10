@@ -1,2 +1,12 @@
-# regulatory-tracking-tool-yv49
-Oliver project repository for 880b715a-d7c0-4292-96ac-029aaf40782f
+# regulatory-tracking-tool
+
+Oliver project repository.
+
+## Folder Structure
+
+- `repository/workflow-analysis/`
+- `repository/business-case/`
+- `repository/ai-opportunity-assessment/`
+- `repository/functional-prototype/`
+- `repository/technical-specifications/`
+- `repository/meeting-notes/`
